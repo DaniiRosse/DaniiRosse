@@ -1,5 +1,5 @@
 # 👋 ¡Hola, soy DaniiRosse!  
-### 🚀 Estudiante | Creador de Proyectos | Apasionada por la Tecnología  
+### 🚀 Estudiante | Creadora de Proyectos | Apasionada por la Tecnología  
 
 ¡Bienvenid@ a mi perfil de GitHub! Aquí encontrarás mis proyectos, experimentos y aprendizajes en desarrollo y tecnología. Siempre estoy explorando nuevas herramientas y mejorando mis habilidades.  
 
